@@ -1,0 +1,5 @@
+folder put in cascade file
+
+require cascade file
+haarcascade_mcs_nose.xml
+haarcascade_frontalface_default.xml
