@@ -2,5 +2,6 @@ tqdm
 numpy==1.19.3
 pandas
 opencv-python
+tensorflow
 keras
 keras-facenet
