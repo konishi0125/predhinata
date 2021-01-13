@@ -12,11 +12,13 @@ Predict Hinatazata member who is in pictures
 
 ## cascade file  
 download cascade files from opencv  
-opencv公式からカスケードファイルをダウンロードする  
+opencv公式からカスケードファイルをダウンロードする 
+   
 haarcascade_frontalface_default.xml  
 https://github.com/opencv/opencv/tree/master/data/haarcascades  
 haarcascade_frontalface_default.xml  
 https://github.com/opencv/opencv_contrib/tree/1311b057475664b6af118fd1a405888bad4fd839/modules/face/data/cascades  
+  
 save to folder "cascade"  
 「カスケード」フォルダに保存(predict.py内のパスを通せば別の場所でも良い)
 
