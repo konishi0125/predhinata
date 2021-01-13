@@ -4,9 +4,10 @@ Predict Hinatazata member who is in pictures
 
 # 必要なもの
 
-cascade file  
+cascade file
 * haarcascade_mcs_nose.xml  
-* haarcascade_frontalface_default.xml
+* haarcascade_frontalface_default.xml  
+model file
 
 # 準備
 
@@ -27,8 +28,8 @@ model files are saved to model
 モデルファイルを「モデル」フォルダに入れる(predict.py内のパスを通せば別の場所でも良い)
 
 # Windowsで動かす
-
-下記のコマンドたちをPowerShellで管理者で実行
+Run these command by sudo in PowerShell  
+下記のコマンドをPowerShellで管理者で実行
 
 ## 仮想環境作成
 
