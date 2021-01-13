@@ -10,7 +10,7 @@ Predict Hinatazata member who is in pictures
 
 # 準備
 
-## cascade file
+## cascade file  
 download cascade files from opencv  
 opencv公式からカスケードファイルをダウンロードする  
 haarcascade_frontalface_default.xml  
@@ -34,7 +34,6 @@ model files are saved to model
 python -m venv venv
 .\venv\Scripts\python.exe -m pip install -U pip setuptools wheel
 .\venv\Scripts\python.exe -m pip install -r requirements.txt
-
 ```
 
 ## 画像ファイルのパス指定
@@ -43,6 +42,6 @@ predict.py line 73
 ## 実行
 
 ```
-.\venv\Scripts\python.exe hinatablogimg/predict.py
+.\venv\Scripts\python.exe hinatablogimg\predict.py
 
 ```
