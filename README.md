@@ -4,9 +4,9 @@ Predict Hinatazata member who is in pictures
 
 # 必要なもの
 
-* cascade file
-  haarcascade_mcs_nose.xml  
-  haarcascade_frontalface_default.xml
+cascade file  
+* haarcascade_mcs_nose.xml  
+* haarcascade_frontalface_default.xml
 
 # 準備
 
